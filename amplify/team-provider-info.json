@@ -1,0 +1,15 @@
+{
+    "bluprnt": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-bluprnt-webapp-bluprnt-232331-authRole",
+            "UnauthRoleArn": "arn:aws:iam::441444912594:role/amplify-bluprnt-webapp-bluprnt-232331-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::441444912594:role/amplify-bluprnt-webapp-bluprnt-232331-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-bluprnt-webapp-bluprnt-232331-deployment",
+            "UnauthRoleName": "amplify-bluprnt-webapp-bluprnt-232331-unauthRole",
+            "StackName": "amplify-bluprnt-webapp-bluprnt-232331",
+            "StackId": "arn:aws:cloudformation:us-east-2:441444912594:stack/amplify-bluprnt-webapp-bluprnt-232331/d5d584b0-3a7b-11ea-b573-025282f53354",
+            "AmplifyAppId": "d3cl5m1hs10h2a"
+        }
+    }
+}
