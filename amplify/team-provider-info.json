@@ -10,6 +10,11 @@
             "StackName": "amplify-bluprnt-webapp-bluprnt-232331",
             "StackId": "arn:aws:cloudformation:us-east-2:441444912594:stack/amplify-bluprnt-webapp-bluprnt-232331/d5d584b0-3a7b-11ea-b573-025282f53354",
             "AmplifyAppId": "d3cl5m1hs10h2a"
+        },
+        "categories": {
+            "auth": {
+                "bluprntwebappbefdde72": {}
+            }
         }
     }
 }
